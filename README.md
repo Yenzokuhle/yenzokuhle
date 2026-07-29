@@ -20,7 +20,7 @@ I believe software product invention requires a perfect infusion of two discipli
 ### 🔄 Where the Product Stands Today:
 > [Launch it here: ](https://taxilator.app/) 
 
-- Since 2018, that initial MVP has been completely re-architected by our senior team into a modern, now hosted on highly stable AWD platform for our local community, built on a robust React framework.
+- Since 2018, that initial MVP has been completely re-architected by our senior team into a modern, now hosted on highly stable AWS platform for our local community, built on a robust React framework.
 
 
 ## 🛠️ Our Core Kitchen Utensils
